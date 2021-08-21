@@ -19,7 +19,9 @@ This is the website for CS 340, Fall 2021 at York College.  All information abou
 * [Practice Exams](practice/index.html)
 
 ## News
-* **Aug 24** &mdash; Welcome back! [Assignment 1](assign/assign01.html) is due Friday, Sept 3rd by 11:59 PM, and [Assignment 2](assign/assign02.html) is due Monday, Sept 13th by 11:59 PM.
+* **Aug 24** &mdash; Welcome back! 
+	* [Assignment 1](assign/assign01.html) is due Friday, Sept 3rd by 11:59 PM, and 
+	* [Assignment 2](assign/assign02.html) is due Monday, Sept 13th by 11:59 PM.
 
 
 <!--
