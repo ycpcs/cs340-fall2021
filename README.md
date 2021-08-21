@@ -17,7 +17,7 @@ are open source, and may be used, modified, and redistributed
 under the terms of the <a href="http://creativecommons.org/licenses/by-sa/4.0/us/">CC-BY-SA 4.0</a>
 license.
 
-This website is a git repository hosted on GitHub: <https://github.com/ycpcs/cs340-fall2020>
+This website is a git repository hosted on GitHub: <https://github.com/ycpcs/cs340-fall2021>
 
 Please feel to use anything here that you find useful,
 and let me know if you have any comments or suggestions!

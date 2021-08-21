@@ -8,15 +8,18 @@ CS 340 - Programming Language Design
 
 **Fall 2021**
 
-Staff:
-
 Instructor: <a href="http://faculty.ycp.edu/~kkambhampaty">Krishna Kambhampaty</a>, <kkambhampaty@ycp.edu>
-
-Office Hours: KEC 115 (815-6547) | T,R 12:15-1:15pm, W,F: 9:30am-11:30am
 
 Email Communication: Please email me for setting up appointments with any questions on the course content. I will try to reply to emails **with in one business day** (not including weekends).
 
-Meeting times:
+> Office Location| Times
+> ------- | -------- 
+> KEC 115 | Tuesday, Thursday 12:15pm - 1:15pm
+>(815-6547)|	Wednesday, Friday: 9:30am - 11:30am
+
+
+
+Class times:
 
 > Section | Location | Times
 > ------- | -------- | -----
