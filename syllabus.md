@@ -14,12 +14,12 @@ Email Communication: Please email me for setting up appointments with any questi
 
 > Office Location| Times
 > ------- | -------- 
-> KEC 115 | Tuesday, Thursday 12:15pm - 1:15pm
->(815-6547)|	Wednesday, Friday: 9:30am - 11:30am
+> KEC 115 (815-6547)| Tuesday, Thursday 12:15pm - 1:15pm
+>					|	Wednesday, Friday: 9:30am - 11:30am
 
 
 
-Class times:
+>Class times:
 
 > Section | Location | Times
 > ------- | -------- | -----
