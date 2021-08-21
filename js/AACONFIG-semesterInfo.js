@@ -2,15 +2,15 @@
 var semesterInfo = {
     // The dates for the first and last day of classes (not including finals week).
     // Set the time to 4 AM ... because why not.
-    firstDayOfSemester: new Date("08/24/2020 4:00:00"),
-    lastDayOfSemester:  new Date("11/23/2020 4:00:00"),
+    firstDayOfSemester: new Date("08/24/2021 4:00:00"),
+    lastDayOfSemester:  new Date("11/24/2021 4:00:00"),
 
     // Specify days on which there are no classes held at the college.
     // Each break is specified by a startDate and an endDate.
     // For single-day breaks, the startDate and endDate are the same.
     vacationDates: [
-        //new VacationDays("Labor Day",          new Date("09/6/2021"),  new Date("09/6/2021")),
-        //new VacationDays("Fall Break",         new Date("10/08/2021"), new Date("10/12/2021")),
-        //new VacationDays("Thanksgiving Break", new Date("11/24/2021"), new Date("11/28/2021")),
+        new VacationDays("Labor Day",          new Date("09/6/2021"),  new Date("09/6/2021")),
+        new VacationDays("Fall Break",         new Date("10/09/2021"), new Date("10/12/2021")),
+        new VacationDays("Thanksgiving Break", new Date("11/24/2021"), new Date("11/28/2021")),
     ]
 };
