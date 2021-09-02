@@ -91,7 +91,7 @@ Your overall grade for the course will be determined as follows:
 
 ### Course website
 
-Please check the course web page, <https://ycpcs.github.io/cs340-fall2020/>, regularly for important announcements.
+Please check the course web page, <https://ycpcs.github.io/cs340-fall2021/>, regularly for important announcements.
 
 ### Reading Assignments
 
