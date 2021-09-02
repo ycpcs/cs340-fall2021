@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 1: Regular expressions"
 ---
 
-**Due: Friday, September 3rd by 11:59 PM**
+**Due: Wednesday, September 8th by 11:59 PM**
 
 # Regular Expressions
 
