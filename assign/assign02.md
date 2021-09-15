@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 2: Finite automata"
 ---
 
-**Due: Monday, September 13th** by 11:59 PM
+**Due: Thursday, September 16th** by 11:59 PM
 
 Your Task
 =========

@@ -10,7 +10,7 @@ All assignments are due by 11:59 PM on the due date.
 > Assignment | File | Due
 > ---------- | ---- | ---
 > [Assignment 1: Regular expressions](assign01.html) | n/a | Wednesday, Sep 8th
-> [Assignment 2: Finite automata](assign02.html) | n/a | Monday, Sep 13th
+> [Assignment 2: Finite automata](assign02.html) | n/a | Thursday, Sep 16th
 
 <!--
 > [Assignment 3: JSON Parser](assign03.html) | [CS340\_Assign03.zip](CS340_Assign03.zip) | Tuesday, Sep 25th
