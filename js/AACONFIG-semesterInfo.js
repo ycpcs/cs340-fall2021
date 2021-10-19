@@ -13,6 +13,7 @@ var semesterInfo = {
 		new VacationDays("No Class",           new Date("09/2/2021"),  new Date("09/2/2021")),
 		new VacationDays("No Class", 	       new Date("09/9/2021"),  new Date("09/9/2021")),
         new VacationDays("Fall Break",         new Date("10/09/2021"), new Date("10/12/2021")),
+		new VacationDays("No Class",           new Date("10/14/2021"), new Date("10/14/2021")),
         new VacationDays("Thanksgiving Break", new Date("11/24/2021"), new Date("11/28/2021")),
     ]
 };
